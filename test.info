@@ -42,5 +42,5 @@ dependencies[] = diff
 dependencies[] = rules_admin
 dependencies[] = coder
 dependencies[] = module_filter
-dependencies[] = code_review
+dependencies[] = coder_review
 
