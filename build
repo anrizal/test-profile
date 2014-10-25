@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm -rf modules/contrib
+drush make --no-core --contrib-destination=. test.make -y
