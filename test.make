@@ -34,9 +34,9 @@ projects[date][version] = 2.8
 projects[date][subdir] = contrib
 
 ;Choosen
-;projects[chosen][type] = module
-;projects[chosen][version] = 2.0-beta4
-;projects[chosen][subdir] = contrib
+projects[chosen][type] = module
+projects[chosen][version] = 2.0-beta4
+projects[chosen][subdir] = contrib
 
 ;email
 projects[email][type] = module
