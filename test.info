@@ -1,4 +1,4 @@
-name = Standard
+name = test
 description = Install with commonly used features pre-configured.
 version = VERSION
 core = 7.x
@@ -29,13 +29,13 @@ dependencies[] = link
 dependencies[] = linkit
 dependencies[] = pathauto
 dependencies[] = views_bulk_operations
-;dependencies[] = chosen
+dependencies[] = chosen
 ;dependencies[] = smtp
 dependencies[] = rules
-;dependencies[] = wysiwyg
-;dependencies[] = ckeditor
+dependencies[] = ckeditor
 dependencies[] = rules_admin
 dependencies[] = views_ui
+dependencies[] = linkchecker
 
 ;dev
 dependencies[] = diff
